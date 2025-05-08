@@ -1,4 +1,2 @@
 merged change
-topic change
-topic again
-topic change again
+change again
